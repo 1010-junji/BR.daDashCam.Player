@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+Third Party Notices
+-------------------------------------------------------------------------------
+
+This software incorporates open source software and third-party libraries.
+The original licenses and copyright notices for these packages are provided below.
+
+===============================================================================
+FFmpeg
+===============================================================================
+
+This software uses binaries from the FFmpeg project.
+FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.
+
+The FFmpeg project can be found at https://ffmpeg.org/
+
+The FFmpeg binaries included in this software are licensed under the
+GNU General Public License version 3.0 (GPLv3).
+The full text of the GPLv3 license can be found at https://www.gnu.org/licenses/gpl-3.0.html
+
+The source code for the specific version of FFmpeg used in this software is
+available for download from https://ffmpeg.org/download.html
+
+===============================================================================
+Electron
+===============================================================================
+
+This software is built using Electron.
+Copyright (c) 2013-2024 OpenJS Foundation and contributors
+License: MIT License
+(https://github.com/electron/electron/blob/main/LICENSE)
+
+===============================================================================
+Node.js
+===============================================================================
+
+This software embeds Node.js.
+Copyright Node.js contributors. All rights reserved.
+License: MIT License
+(https://github.com/nodejs/node/blob/main/LICENSE)
+
+===============================================================================
+- fluent-ffmpeg (MIT License)
+- electron-store (MIT License)
+- etc.
+-------------------------------------------------------------------------------
